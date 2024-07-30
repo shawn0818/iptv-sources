@@ -22860,6 +22860,9 @@
 	<programme channel="咪咕足球" start="20240730192000 +0800" stop="20240730192500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240730192500 +0800" stop="20240730224000 +0800">
+		<title lang="zh">2024巴黎奥运会 击剑 女子团体重剑半决赛等 直播</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -75258,6 +75261,9 @@
 	<programme channel="newtv超级综艺" start="20240730180300 +0800" stop="20240730193000 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240730193000 +0800" stop="20240730205200 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75425,6 +75431,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240730184200 +0800" stop="20240730192800 +0800">
 		<title lang="zh">19_江河之上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240730192800 +0800" stop="20240730201300 +0800">
+		<title lang="zh">20_江河之上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
